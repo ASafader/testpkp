@@ -13,12 +13,12 @@ Scenariusz testowy:
 Poprawne przejście do listingu połączeń
 
 Opis przypadku testowego (kroki)
-Wpisz nazwę stacji w polu Z:  Warszawa Centralna
-Wpisz nazwę stacji w polu DO: Gdańsk Wrzeszcz 
-Wpisz datę 8 kwietna 2023
-Wpisz godzinę 11:00
-Zaznacz połączenie bezpośrednie 
-Kliknij wyszukaj połączenie 
+1. Wpisz nazwę stacji w polu Z:  Warszawa Centralna
+2. Wpisz nazwę stacji w polu DO: Gdańsk Wrzeszcz 
+3. Wpisz datę 8 kwietna 2023
+4. Wpisz godzinę 11:00
+5. Zaznacz połączenie bezpośrednie 
+6. Kliknij wyszukaj połączenie 
 
 Oczekiwany rezultat:
 Poprawne przejście do listingu połączeń
